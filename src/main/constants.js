@@ -2,5 +2,5 @@
 
 
 export const Constants = {
-  API: "https://pw9s4fkmsf.execute-api.us-east-1.amazonaws.com/v1",
+  API: "https://noc67jlkr3.execute-api.us-east-1.amazonaws.com/v1",
 };
